@@ -232,6 +232,6 @@ Is this different from Perl?
 
 **Finished!** 
 
-Name: Manuel Rosero
+Name: Manuel Rosero.
 
 Date: 10/27/16
